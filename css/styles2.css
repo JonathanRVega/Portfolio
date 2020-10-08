@@ -10169,8 +10169,8 @@ h3 {
 .portfolio2{
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 13.5rem;
-  padding-bottom: 13.5rem;
+  padding-top: 15rem;
+  padding-bottom: 15rem;
 }
 
 .portfolio .portfolio-item {
@@ -10272,4 +10272,8 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.underline{
+  text-decoration: underline;
 }
