@@ -10172,6 +10172,10 @@ section.resume-section .resume-section-content .resume-section-portfolio .resume
   section.resume-section-portfolio {
     min-height: 100vh;
   }
+  section.resume-section-main {
+    min-height: 100vh;
+
+  }
 }
 @media (min-width: 992px) {
   section.resume-section {
@@ -10181,6 +10185,12 @@ section.resume-section .resume-section-content .resume-section-portfolio .resume
     padding-bottom: 5rem;
   }
   section.resume-section-portfolio {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  section.resume-section-main {
     padding-left: 3rem;
     padding-right: 3rem;
     padding-top: 5rem;

@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color: #17a2b8;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
+  color: #0f6674;
   text-decoration: underline;
 }
 
@@ -6095,7 +6095,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #17a2b8 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9797,7 +9797,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #1abc9c !important;
+  color: #17a2b8 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
