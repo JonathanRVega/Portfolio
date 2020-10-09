@@ -163,6 +163,30 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
+.youtube{
+  color: #b81717;
+}
+.youtube:hover{
+  color: #7c1010;
+}
+.android{
+  color: #A4C639;
+}
+.adobe{
+  color: #FF0000;
+}
+.react{
+  color: #61dbfb;
+}
+.JS{
+  color: #f0db4f;  
+}
+.CSS{
+  color: #264de4;
+}
+.html{
+  color: #e34c26;
+}
 a:hover {
   color: #0f6674;
   text-decoration: underline;
