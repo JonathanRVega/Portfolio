@@ -10119,6 +10119,17 @@ section.resume-section {
   padding-bottom: 5rem;
   max-width: 75rem;
 }
+section.resume-section-main {
+  display: flex;
+  align-items: center;
+  background-image: url("https://images.unsplash.com/photo-1520717178299-4cf2701a5bc0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 5rem;
+  padding-bottom: 17.5rem;
+  max-width: 110rem;
+  
+}
 
 section.resume-section-portfolio {
   display: flex;
@@ -10130,8 +10141,28 @@ section.resume-section-portfolio {
   max-width: 75rem;
 }
 
-section.resume-section .resume-section-content .resume-section-portfolio {
+section.resume-section .resume-section-content .resume-section-portfolio .resume-section-main {
   width: 100%;
+}
+
+.test{
+  margin-top: 18.5rem;
+  margin-left: 2rem;
+  color: white;
+  text-shadow: 2px 2px black;;
+}
+
+.test2{
+  margin-left: 2rem;
+  color: white;
+  text-align: justify;
+  text-shadow: 0 0 3px black, 0 0 5px black;
+}
+
+.test3{
+  margin-left: 2rem;
+  color: white;
+  text-shadow: 2px 2px black;;
 }
 
 @media (min-width: 768px) {
