@@ -172,6 +172,9 @@ a {
 .android{
   color: #A4C639;
 }
+.node{
+  color: #68A063;
+}
 .adobe{
   color: #FF0000;
 }
@@ -10186,15 +10189,15 @@ h3 {
 .portfolio{
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 12%;
 }
 
 .portfolio2{
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 15rem;
-  padding-bottom: 15rem;
+  padding-top: 6rem;
+  padding-bottom: 17.5rem;
 }
 
 .portfolio .portfolio-item {
@@ -10205,7 +10208,15 @@ h3 {
   border-radius: 0.5rem;
   overflow: hidden;
 }
-.portfolio .portfolio-item .portfolio-item-caption {
+.portfolio-item2{
+  cursor: pointer;
+  position: relative;
+  display: block;
+  max-width: 35rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.portfolio .portfolio-item .portfolio-item2 .portfolio-item-caption {
   position: absolute;
   top: 0;
   left: 0;
@@ -10213,10 +10224,10 @@ h3 {
   opacity: 0;
   background-color: rgba(26, 188, 156, 0.9);
 }
-.portfolio .portfolio-item .portfolio-item-caption:hover {
+.portfolio .portfolio-item .portfolio-item2 .portfolio-item-caption:hover {
   opacity: 1;
 }
-.portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
+.portfolio .portfolio-item .portfolio-item2 .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
 }
 
